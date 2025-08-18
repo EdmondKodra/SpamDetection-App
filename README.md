@@ -6,9 +6,13 @@ Ky projekt është një Machine Learning model për detektimin e spam email/sms 
 Karakteristikat Kryesore ✅
 
 📊 Trajnim i modelit mbi dataset real me mesazhe Spam dhe Not Spam
+
 ⚡ Rezultate të shpejta dhe të sakta (accuracy > 98%)
+
 🖥️ Frontend intuitiv me Streamlit
+
 🎨 Feedback vizual me emoji dhe ngjyra për Spam / Not Spam
+
 🚀 Lehtë për t’u zgjeruar me modele ose dataset më të mëdhenj
 
 # Si të klononi projektin 📂
