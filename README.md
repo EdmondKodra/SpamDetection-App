@@ -17,5 +17,7 @@ Karakteristikat Kryesore ✅
 
 # Si të klononi projektin 📂
 cd Spam
+
 pip install pandas scikit-learn streamlit
+
 python -m streamlit run SpamDetection.py
