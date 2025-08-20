@@ -1,9 +1,9 @@
-📧 Spam Detection App
+# 📧 Spam Detection App
 Përshkrimi
 
 Ky projekt është një Machine Learning model për detektimin e spam email/sms duke përdorur Python. Ai përdor Naive Bayes dhe CountVectorizer për të klasifikuar mesazhet si Spam ose Not Spam. Projektin e kam integruar me Streamlit për një frontend interaktiv ku përdoruesit mund të testojnë mesazhe real-time.
 
-Karakteristikat Kryesore ✅
+## Karakteristikat Kryesore ✅
 
 📊 Trajnim i modelit mbi dataset real me mesazhe Spam dhe Not Spam
 
@@ -15,7 +15,10 @@ Karakteristikat Kryesore ✅
 
 🚀 Lehtë për t’u zgjeruar me modele ose dataset më të mëdhenj
 
-# Si të klononi projektin 📂
+## 🖼️ Demo  
+🎥 [Shiko demonstrimin](https://www.youtube.com/watch?v=88dhdz0SvQA)
+
+## Si të klononi projektin 📂
 cd Spam
 
 pip install pandas scikit-learn streamlit
