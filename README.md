@@ -16,7 +16,7 @@ Ky projekt është një Machine Learning model për detektimin e spam email/sms 
 🚀 Lehtë për t’u zgjeruar me modele ose dataset më të mëdhenj
 
 ## 🖼️ Demo  
-🎥 video:[Shiko demonstrimin](https://www.youtube.com/watch?v=88dhdz0SvQA)
+🎥 Video: [Shiko demonstrimin](https://www.youtube.com/watch?v=88dhdz0SvQA)
 
 ## Si të klononi projektin 📂
 cd Spam
